@@ -15,4 +15,5 @@ function newFn(){
 
 function newFeature(){
     console.log("New feature added")
+    console.log("New feature added")
 }
