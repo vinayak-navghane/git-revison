@@ -8,3 +8,6 @@ function sayName(){
 
 
 
+function newFn(){
+    console.log("hey I am a new fn");
+}
